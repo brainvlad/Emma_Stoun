@@ -408,6 +408,10 @@ a {
   width: 264px;
   height: 418px;
   object-fit: cover;
+  border-radius: 8px;
+}
+.book__txt-white {
+  color: #fffcf9;
 }
 .book__title {
   font-family: "Antikvar";
